@@ -26,7 +26,7 @@ LaraAppointments is all generated with __QuickAdmin__ except for custom code for
 Basically, feel free to use and re-use any way you want.
 
 ---
-
+ 
 ## More from our LaravelDaily Team
 
 - Read our [Daily Blog with Laravel Tutorials](https://laraveldaily.com)
